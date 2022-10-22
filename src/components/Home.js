@@ -8,6 +8,7 @@ import Layout from "./Layout";
 
 function Home() {
   const dispatch = useDispatch();
+  const carData = useSelector(state => state.cars)
   const catogaries = useSelector(state => state.catogaryData)
   console.log(catogaries)
   const [load, setLoad] = useState(true);
@@ -32,7 +33,7 @@ function Home() {
               <Card.Body>
                 <Card.Title>Registered Cars</Card.Title>
                 <Card.Text>
-                  3
+                  {carData.length}
                 </Card.Text>
               </Card.Body>
             </Card>
