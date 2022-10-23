@@ -1,6 +1,11 @@
-Car Management System 
+Car Management System
 
-This project let the user to add, delete, view and update the cars on the system. This project also let the user to add, delete, view and update car categories on the system. This project uses the technologies like react, redux, bootstrap and react-router. I have use react-bootstrap-table-next to display data in tables.
+This project let the user to add, delete, view and update the cars on the system. This project also let the user to add, delete, view and update car categories on the system. This project uses the technologies like react, redux, bootstrap and react-router. I have use react-bootstrap-table-next to display data in tables.
+
+Acknowledgements
+ - [React bootstrap table next readme](https://github.com/react-bootstrap-table/react-bootstrap-table2/blob/master/README.md)
+ - [React router README](https://github.com/remix-run/react-router/blob/main/README.md)
+
 
 # Getting Started with Create React App
 
