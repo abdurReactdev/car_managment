@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # car_managment
 In this system you can regester car and there categories.
 =======
@@ -41,5 +41,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
->>>>>>> 9af5e5a0bff5a1b436a9d6ce41dbe2ba35e912c6
