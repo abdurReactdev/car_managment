@@ -1,0 +1,97 @@
+.card {
+  height: 200px;
+  padding: 1em;
+  border-radius: 15px;
+  background-color: #28A745;
+  box-sizing: border-box;
+}
+
+.card-title {
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+.card-text {
+  font-size: 2rem;
+  margin-top: 30px;
+  color: white;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #F6F6F6;
+}
+
+.leftNavContainer {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.card img {
+  height: 50%;
+  object-fit: contain;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.loginContainer {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #bdc3c7;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,
+      #2c3e50,
+      #bdc3c7);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,
+      #2c3e50,
+      #bdc3c7);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.formContainer {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.nav-link {
+  color: #6c757d;
+}
+
+.spinner-center {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-heading {
+  background-color: #43A3A5;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+  color: white;
+}
+.custom-container{
+  width: 90%;
+  margin: auto;
+  background-color: #F2FBFA;
+}
+.btn-position{
+  float: right;
+}
+.button-container{
+  justify-content: flex-end;
+    display: flex;
+    padding: 0 20px;
+}
+.btn{
+  background: #43a3a5 0 0 no-repeat padding-box
+}
